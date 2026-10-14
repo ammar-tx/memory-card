@@ -23,62 +23,62 @@ function App() {
   {
     id: 1,
     name: "Naruto Uzumaki",
-    src: "./public/1.jpg"
+    src: "/public/1.jpg"
   },
   {
     id: 2,
     name: "Sasuke Uchiha",
-    src: "./public/2.jpg"
+    src: "/public/2.jpg"
   },
   {
     id: 3,
     name: "Sakura Haruno",
-    src: "./public/3.jpg"
+    src: "/public/3.jpg"
   },
   {
     id: 4,
     name: "Kakashi Hatake",
-    src: "./public/4.jpg"
+    src: "/public/4.jpg"
   },
   {
     id: 5,
     name: "Itachi Uchiha",
-    src: "./public/5.jpg"
+    src: "/public/5.jpg"
   },
   {
     id: 6,
     name: "Gaara",
-    src: "./public/6.jpg"
+    src: "/public/6.jpg"
   },
   {
     id: 7,
     name: "Hinata Hyuga",
-    src: "./public/7.jpg"
+    src: "/public/7.jpg"
   },
   {
     id: 8,
     name: "Jiraiya",
-    src: "./public/8.jpg"
+    src: "/public/8.jpg"
   },
   {
     id: 9,
     name: "Orochimaru",
-    src: "./public/9.jpg"
+    src: "/public/9.jpg"
   },
   {
     id: 10,
     name: "Rock Lee",
-    src: "./public/10.jpg"
+    src: "/public/10.jpg"
   },
   {
     id: 11,
     name: "Shikamaru Nara",
-    src: "./public/11.jpg"
+    src: "/public/11.jpg"
   },
   {
     id: 12,
     name: "Madara Uchiha",
-    src: "./public/12.jpg"
+    src: "/public/12.jpg"
   }
 ];
 
