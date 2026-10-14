@@ -23,62 +23,62 @@ function App() {
   {
     id: 1,
     name: "Naruto Uzumaki",
-    src: "/public/1.jpg"
+    src: "https://unsplash.com/photos/tabby-cat-on-wooden-floor-CYq1Jr-ccGc"
   },
   {
     id: 2,
     name: "Sasuke Uchiha",
-    src: "/public/2.jpg"
+    src: "https://unsplash.com/photos/ruddy-turnstone-calling-with-open-beak-l-I2kMq-M5Q"
   },
   {
     id: 3,
     name: "Sakura Haruno",
-    src: "/public/3.jpg"
+    src: "https://unsplash.com/photos/a-young-deer-with-spots-in-a-forest-jYUivBeOUaE"
   },
   {
     id: 4,
     name: "Kakashi Hatake",
-    src: "/public/4.jpg"
+    src: "https://unsplash.com/photos/elk-with-antlers-in-snowy-forest-VIBM9Z5X1b4"
   },
   {
     id: 5,
     name: "Itachi Uchiha",
-    src: "/public/5.jpg"
+    src: "https://unsplash.com/photos/juvenile-bald-eagle-in-flight-7lV4U_omwU0"
   },
   {
     id: 6,
     name: "Gaara",
-    src: "/public/6.jpg"
+    src: "https://unsplash.com/photos/a-small-hedgehog-sits-in-green-grass-with-snowdrops-A8nXliyqWKs"
   },
   {
     id: 7,
     name: "Hinata Hyuga",
-    src: "/public/7.jpg"
+    src: "https://unsplash.com/photos/alpine-ibex-in-mountain-meadow-JDF2VqH23qk"
   },
   {
     id: 8,
     name: "Jiraiya",
-    src: "/public/8.jpg"
+    src: "https://unsplash.com/photos/a-dragonfly-perched-on-a-stalk-of-golden-grass-uQ4AyR9bjUw
   },
   {
     id: 9,
     name: "Orochimaru",
-    src: "/public/9.jpg"
+    src: "https://unsplash.com/photos/red-panda-on-mossy-tree-branch-LAksYIVRjUs"
   },
   {
     id: 10,
     name: "Rock Lee",
-    src: "/public/10.jpg"
+    src: "https://unsplash.com/photos/a-small-hedgehog-hides-under-a-car-on-paving-stones-zGecii3rnxo"
   },
   {
     id: 11,
     name: "Shikamaru Nara",
-    src: "/public/11.jpg"
+    src: "https://unsplash.com/photos/a-red-chameleon-perched-on-a-tree-branch-zbKL8ZQQfWU"
   },
   {
     id: 12,
     name: "Madara Uchiha",
-    src: "/public/12.jpg"
+    src: "https://unsplash.com/photos/a-snarling-leopard-with-sharp-teeth-and-prominent-whiskers-loMAi6RfY1o"
   }
 ];
 
